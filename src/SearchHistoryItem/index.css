@@ -1,0 +1,29 @@
+.li-container {
+  display: flex;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.li-items-container {
+  display: flex;
+}
+.time {
+  margin-right: 20px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+}
+.button {
+  border-style: none;
+  height: 30px;
+  width: 30px;
+}
+.title {
+  margin-right: 50px;
+}
+.span {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: bold;
+}
