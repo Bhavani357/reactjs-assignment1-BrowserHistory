@@ -44,4 +44,8 @@
   margin: 30px;
   padding: 30px;
   align-self: center;
+  width: 50%;
+}
+.last-para {
+  margin: 40%;
 }
